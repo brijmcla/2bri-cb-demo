@@ -17,9 +17,9 @@ This is my title
 **this is my title in bold**
 *this is my title in italics*
 ***this is my title in bold and italics***
-1.one
-1.two
-1.three
+1. one
+1. two
+1. three
 
 ## About the Collection
 
