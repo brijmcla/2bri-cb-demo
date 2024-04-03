@@ -12,6 +12,15 @@ credits: true
 
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
 
+# Title
+This is my title
+**this is my title in bold**
+*this is my title in italics*
+***this is my title in bold and italics***
+1.one
+1.two
+1.three
+
 ## About the Collection
 
 This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
